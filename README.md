@@ -1,5 +1,3 @@
-# mental-wellness-tracker-ai
-
 # 🧠 MindMate AI – Exam Wellness Companion
 
 > **Your AI-powered companion for managing stress, building resilience, and staying motivated during competitive exam preparation.**
