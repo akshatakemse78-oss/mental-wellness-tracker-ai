@@ -11,8 +11,7 @@ MindMate AI is a Generative AI-powered wellness tracker designed for students pr
 ## 🌐 Live Demo
 
 **🔗 Live Application**
-https://bolt.new/p/67831454
-
+https://mindmate-ai-exam-wel-dqlv.bolt.host
 
 ---
 
